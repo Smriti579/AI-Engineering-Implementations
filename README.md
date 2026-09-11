@@ -1,4 +1,4 @@
-#  – Relevant Coursework 
+# Relevant Coursework 
 
 This repository contains **programming labs and experimental implementations** completed during my **B.Tech in Artificial Intelligence**.
 
