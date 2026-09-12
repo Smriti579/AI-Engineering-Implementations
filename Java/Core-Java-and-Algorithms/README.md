@@ -1,33 +1,67 @@
 # Core-Java-and-Algorithms
 
-This repository contains basic Java programs that demonstrate fundamental programming concepts.
+A collection of Java implementations covering fundamental programming concepts and algorithmic problem solving.
 
-List of Programs:
+The implementations focus on arrays, matrices, recursion, searching, sorting, numerical algorithms, and basic string operations.
 
-1.Find the largest and smallest number in an array
+---
 
-2.Check if a number is odd or even
+## Topics Covered
 
-3.Find the largest of three numbers
+- Array manipulation
+- Matrix operations
+- Searching algorithms
+- Sorting algorithms
+- Recursion
+- Number-based algorithms
+- String and number manipulation
+- Duplicate detection and removal
 
-4.Calculate the factorial of a number using recursion
+---
 
-5.Check if a string/number is a palindrome
+## Implementations
 
-6.Generate the Fibonacci series
+### Searching & Sorting
+- Binary Search
+- Bubble Sort
 
-7.Check whether a number is prime
+### Recursion
+- Factorial using recursion
+- Fibonacci series
 
-8.Find the sum of all elements in an array
+### Arrays & Matrices
+- Find largest and smallest element in an array
+- Find the sum of array elements
+- Reverse an array
+- Remove duplicate elements
+- Demonstrate and traverse a 2D array
+- Matrix addition
+- Matrix multiplication
 
-9.Reverse an array
+### Number & String Problems
+- Odd or even number checking
+- Largest of three numbers
+- Prime number checking
+- Palindrome checking
 
-10.Perform matrix addition and multiplication
+---
 
-11.Sort an array using the bubble sort algorithm
+## Purpose
 
-12.Demonstrate a 2D array and print its elements
+These implementations demonstrate fundamental Java programming skills and provide hands-on practice with algorithmic thinking, problem solving, and basic data manipulation.
 
-13.Search for an element using the binary search algorithm
+---
 
-14.Remove duplicate elements from an array
+## Technologies
+
+- Java
+- Arrays
+- Recursion
+- Searching & Sorting Algorithms
+- Matrix Operations
+
+---
+
+## Author
+
+**Smriti Mahajan**  
