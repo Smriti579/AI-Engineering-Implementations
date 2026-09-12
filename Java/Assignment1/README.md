@@ -1,4 +1,4 @@
-# Java-Assignment-1
+# Core-Java-and-Algorithms
 
 This repository contains basic Java programs that demonstrate fundamental programming concepts.
 
