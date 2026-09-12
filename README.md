@@ -53,13 +53,12 @@ Implementation of fundamental programming concepts including:
 * Duplicate removal
 * Prime number checking
 
-These assignments focus on **core algorithmic thinking and problem-solving using Java**.
 
 ---
 
 ### Natural Language Processing (NLP)
 
-Contains multiple NLP experiments implemented in a single notebook covering:
+Contains multiple NLP implementations in a single notebook covering:
 
 * Text preprocessing
 * Tokenization and stopword removal
@@ -74,7 +73,7 @@ Contains multiple NLP experiments implemented in a single notebook covering:
 
 ### Multimodal Learning
 
-Experiments combining **text and image data** for multimodal machine learning tasks.
+Implementations combining **text and image data** for multimodal machine learning tasks.
 
 Concepts explored include:
 
