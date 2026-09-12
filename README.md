@@ -11,28 +11,28 @@ These labs demonstrate hands-on implementation of core concepts in **algorithms,
 ## Repository Structure
 
 ```
-Labs
+AI-Engineering-Lab
 │
-├── Java
-│   ├── Assignment1
-│   ├── Assignment2
-│   ├── Assignment3
-│   ├── Assignment4
-│   └── Assignment5
+├── Java/
+│   ├── Core-Java-and-Algorithms/
+│   ├── Object-Oriented-Java/
+│   ├── Java-Concurrency-and-IO/
+│   ├── Java-Collections-and-Generics/
+│   └── Java-Annotations/
 │
-├── NLP
+├── NLP/
 │   ├── NLP_Lab_Experiments.ipynb
 │   └── README.md
 │
-├── Multimodal
+├── Multimodal/
 │   ├── multimodal_lab.ipynb
 │   └── README.md
 │
-├── Conversational-AI
+├── Conversational-AI/
 │   ├── conversational_ai_lab.ipynb
 │   └── README.md
 │
-└── Big-Data
+└── Big-Data/
     ├── big_data_lab.ipynb
     └── README.md
 ```
