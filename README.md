@@ -14,11 +14,11 @@ These labs demonstrate hands-on implementation of core concepts in **algorithms,
 AI-Engineering-Lab
 │
 ├── Java/
-│   ├── Core-Java-and-Algorithms/
-│   ├── Object-Oriented-Java/
-│   ├── Java-Concurrency-and-IO/
-│   ├── Java-Collections-and-Generics/
-│   └── Java-Annotations/
+│   ├── Core-Java-and-Algorithms
+│   ├── Object-Oriented-Java
+│   ├── Java-Concurrency-and-IO
+│   ├── Java-Collections-and-Generics
+│   └── Java-Annotations
 │
 ├── NLP/
 │   ├── NLP_Lab_Experiments.ipynb
